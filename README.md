@@ -16,8 +16,11 @@ Given:
  # Test Cases
  
  Test case: 1 
+ 
  max_enemies = 11
+ 
  Enter the power of each enemy = {0, 10, 2, 3, 9, 5, 6, 7, 8, 4, 1}
+ 
  Enter initial power of Abhimanyu= 10
  Enter total number of skips that Abhimanyu has = 6 
  Enter number of times Abhimanyu can recharge himself  = 2
