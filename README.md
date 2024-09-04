@@ -13,7 +13,7 @@ Given:
 
  Write an algorithm to find if Abhimanyu can cross the Chakravyuh and test it with two sets of test cases.
 
- #Test Casee
+ # Test Cases
  
  Test case: 1 
  max_enemies = 11
